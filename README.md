@@ -4,7 +4,7 @@
 
 
 
-### Hi there 👋
+### I'm glad to see everyone on my page 👋
 
 <!--
 **Artyom-0305/Artyom-0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
